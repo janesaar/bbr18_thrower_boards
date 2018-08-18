@@ -1,0 +1,6 @@
+Comment	Description	Designator	Footprint	Quantity
+
+"HEADER-1"	""	"J1, J2, J4"	"2MM-BULLET-PLUG-VIA"	"3"
+"HEADER-4"	""	"J3"	"MICRO-MATCH-FOB-SIDE-04"	"1"
+"HEADER-4"	""	"J5"	"MICRO-MATCH-MOB-04"	"1"
+"HEADER-6"	""	"J6"	"MICRO-MATCH-FOB-SIDE-06"	"1"

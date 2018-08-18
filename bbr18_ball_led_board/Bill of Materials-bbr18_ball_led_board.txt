@@ -1,0 +1,6 @@
+Comment	Description	Designator	Footprint	Quantity
+
+"5 mW/sr, 1.2 V, 30°"	"WL-SIRW SMD Infrared Reverse mount Waterclear Dome, size 1206, 5 mW/sr, 1.2 V, 30°"	"D1, D2"	"WL-SIRW_1206_15412094A3060_reverse use"	"2"
+"HEADER-4"	""	"J1"	"MICRO-MATCH-MOB-04"	"1"
+"HEADER-1"	""	"J2, J3, J4"	"2MM-BANANA-VIA"	"3"
+"1k"	"Resistor SMD chip 1k Ohm 0.1W 5% 0603"	"R1, R2"	"RESC1608X55N"	"2"

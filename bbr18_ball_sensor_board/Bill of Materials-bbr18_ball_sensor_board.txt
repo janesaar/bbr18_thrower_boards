@@ -1,0 +1,5 @@
+Comment	Description	Designator	Footprint	Quantity
+
+"100n"	"Capacitor SMD Cer 100nF 10% 50V X7R 0603"	"C1, C2"	"CAPC1608X90N"	"2"
+"HEADER-6"	""	"J1"	"MICRO-MATCH-MOB-06"	"1"
+"IS471F"	""	"U1, U2"	"IS471F"	"2"
